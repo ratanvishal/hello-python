@@ -1,0 +1,5 @@
+print("enter the value of a")
+a=input()
+print("enter the value of b")
+b=input()
+print("a is bigger than b") if a>b else print("b is bigger than a")
